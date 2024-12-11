@@ -44,5 +44,5 @@ To run this application locally:
    git clone https://github.com/Ragnor16/Redbus-Guvi-project
 
 2. Run the command:
-   ...bash
-   streamlit run 
+   ```bash
+   streamlit run redbus.py
