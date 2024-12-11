@@ -42,3 +42,7 @@ To run this application locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ragnor16/Redbus-Guvi-project
+
+2. Run the command:
+   ...bash
+   streamlit run 
